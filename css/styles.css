@@ -1,6 +1,26 @@
 h1 {
   color: maroon;
 }
-img{
-  float: left;
+.test-box {
+  border: 2px solid black;
+  border-left: 2px so lid red;
+  padding :6px;
+  margin: 20px;
+  background-color: yellow
+}
+.picture
+{
+  margin: auto;
+  width: auto;
+  padding-left: 5000px;
+}
+
+
+@media screen and (max-width: 500px) {
+  body {
+    background-color: yellowgreen;
+  }
+  h1{
+    color:blue;
+  }
 }
