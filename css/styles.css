@@ -8,11 +8,8 @@ h1 {
   margin: 20px;
   background-color: yellow
 }
-.picture
-{
-  margin: auto;
-  width: auto;
-  padding-left: 5000px;
+.picture{
+  position: relative;
 }
 
 
