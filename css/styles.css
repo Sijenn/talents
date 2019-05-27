@@ -1,13 +1,7 @@
 h1 {
   color: maroon;
 }
-.test-box {
-  border: 2px solid black;
-  border-left: 2px so lid red;
-  padding :6px;
-  margin: 20px;
-  background-color: yellow
-}
+
 .picture{
   position: relative;
 }
@@ -20,4 +14,11 @@ h1 {
   h1{
     color:blue;
   }
+}
+
+.mod {
+  float: left;
+}
+.mag {
+  float: right;
 }
